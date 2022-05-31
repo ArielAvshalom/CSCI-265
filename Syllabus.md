@@ -14,16 +14,16 @@
 
 </p>
 
-**Prereqs:**
+## Prereqs:
 
 CSCI 16000; MATH 15000
 I strongly recommend reading chapter zero of our textbook before the semester begins.
 
-**Textbook:**
+## Textbook:
 
 Introduction to the Theory of Computation 3rd Edition by Michael Sipser
 
-**About the Course:**
+## About the Course:
 
 <details><summary>Click to Expand</summary>
 
@@ -40,7 +40,7 @@ See you all soon!
 <br></br>
 <br></br>
 Ariel A.
- 
+
 </div>
 
 </details>
