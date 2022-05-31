@@ -8,7 +8,7 @@
 
     Instructor: Ariel Avshalom
 
-    Email: csciprofessor+S22-26500@gmail.com
+    Email: csciprofessor+S22-26500 AT gmail DOT com
 
     Office hours: Before or after class on Tuesday by request
 
