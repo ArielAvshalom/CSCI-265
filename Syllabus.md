@@ -25,6 +25,8 @@ Introduction to the Theory of Computation 3rd Edition by Michael Sipser
 
 **About the Course:**
 
+<details><summary>Click to Expand</summary>
+
 <div>
 At this point, you’ve all taken some courses in computer science, often times challenging and fun courses like Intro to C++ or Discrete Math. This course is flavored with elements of discrete math and often ranges from interesting to tedious.
 <br></br>
@@ -40,3 +42,5 @@ See you all soon!
 Ariel A.
  
 </div>
+
+</details>
