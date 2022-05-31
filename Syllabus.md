@@ -91,3 +91,14 @@ Ariel A.
         - Space Complexity (provided time permits)
 
 </details>
+
+## Grading
+
+Final:          35%
+
+Quizzes:        40%
+
+Homework:       15%
+
+Participation:  10%
+
