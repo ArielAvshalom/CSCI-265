@@ -98,3 +98,13 @@ Ariel A.
 |Homework       |15%|
 |Participation  |10%|
 
+## Important Dates
+There will be assigned readings and homework before each class and it’s important to stay on top of it. This information will be available in the readme.md file.
+
+|Date                       |Detail|   
+|:-:                        |:-:|
+|Monday June 20th 2022      |College Closed|
+|Wednesday June 22th 2022   |Classes follow a Monday schedule|
+|Monday July 4th 2022       |**Fourth of July Weekend!**|
+|Tuesday July 5th 2022      |Classes follow a Monday schedule!|
+|Tuesday July 12th 2022     |**Final Exam**|
