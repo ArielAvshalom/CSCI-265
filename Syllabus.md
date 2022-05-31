@@ -48,6 +48,7 @@ Ariel A.
 ## Course Objectives
 
 - Automata, Computability and Complexity: the big picture
+<details><summary>Automata</summary>
 - Automata
     - Regular Languages:
         - (Deterministic) Finite Automata 	(DFA)
@@ -56,7 +57,10 @@ Ariel A.
     - Context-Free Languages:
         - Context-Free Grammars 		(CFG)
         - Pushdown Automata			(PDA)
-    - Computability
+</details>
+
+<details><summary>Automata</summary>
+- Computability
         - Turing Machines
             - What are Turing Machines
             - Variations in Turing Machines
@@ -69,10 +73,14 @@ Ariel A.
             - Turing unrecognizable languages
         - Reducibility
             - Mapping reducibility
-    - Complexity
+</details>
+
+<details><summary>Automata</summary>
+- Complexity
         - Time Complexity
             - Big O
             - The Class P
             - The Class NP
             - NP Completeness
         - Space Complexity (provided time permits)
+</details>
