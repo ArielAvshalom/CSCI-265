@@ -51,32 +51,30 @@ Ariel A.
 
 <details><summary>Automata</summary>
 
-- Automata
-    - Regular Languages:
-        - (Deterministic) Finite Automata 	(DFA)
-        - Nondeterministic Finite Automata 	(NFA)
-        - Regular Expressions
-    - Context-Free Languages:
-        - Context-Free Grammars 		(CFG)
-        - Pushdown Automata			(PDA)
+- Regular Languages:
+    - (Deterministic) Finite Automata 	(DFA)
+    - Nondeterministic Finite Automata 	(NFA)
+    - Regular Expressions
+- Context-Free Languages:
+    - Context-Free Grammars 		(CFG)
+    - Pushdown Automata			(PDA)
 
 </details>
 
 <details><summary>Computability</summary>
 
-- Computability
-        - Turing Machines
-            - What are Turing Machines
-            - Variations in Turing Machines
-    - Algorithms
-    - Decidability
-        - Decidable Languages
-        - Undecidable Languages
-            - The halting problem
-            - *Gödel’s incompleteness theorems (provided time permits)
-            - Turing unrecognizable languages
-        - Reducibility
-            - Mapping reducibility
+- Turing Machines
+    - What are Turing Machines
+    - Variations in Turing Machines
+- Algorithms
+- Decidability
+    - Decidable Languages
+    - Undecidable Languages
+        - The halting problem
+        - *Gödel’s incompleteness theorems (provided time permits)
+        - Turing unrecognizable languages
+- Reducibility
+    - Mapping reducibility
 
 </details>
 
