@@ -50,5 +50,29 @@ Ariel A.
 - Automata, Computability and Complexity: the big picture
 - Automata
     - Regular Languages:
-        - test
-        - test
+        - (Deterministic) Finite Automata 	(DFA)
+        - Nondeterministic Finite Automata 	(NFA)
+        - Regular Expressions
+    - Context-Free Languages:
+        - Context-Free Grammars 		(CFG)
+        - Pushdown Automata			(PDA)
+    - Computability
+        - Turing Machines
+            - What are Turing Machines
+            - Variations in Turing Machines
+    - Algorithms
+    - Decidability
+        - Decidable Languages
+        - Undecidable Languages
+            - The halting problem
+            - *Gödel’s incompleteness theorems (provided time permits)
+            - Turing unrecognizable languages
+        - Reducibility
+            - Mapping reducibility
+    - Complexity
+        - Time Complexity
+            - Big O
+            - The Class P
+            - The Class NP
+            - NP Completeness
+        - Space Complexity (provided time permits)
