@@ -62,7 +62,7 @@ Ariel A.
 
 </details>
 
-<details><summary>Automata</summary>
+<details><summary>Computability</summary>
 
 - Computability
         - Turing Machines
@@ -80,15 +80,14 @@ Ariel A.
 
 </details>
 
-<details><summary>Automata</summary>
+<details><summary>Complexity</summary>
 
-- Complexity
-        - Time Complexity
-            - Big O
-            - The Class P
-            - The Class NP
-            - NP Completeness
-        - Space Complexity (provided time permits)
+- Time Complexity
+    - Big O
+    - The Class P
+    - The Class NP
+    - NP Completeness
+- Space Complexity (provided time permits)
 
 </details>
 
