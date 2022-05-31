@@ -5,6 +5,7 @@
 - Recordings are available below
 - Homework is not collected but will help you in quizzes and exams
 - Read course materials before we come to class!
+- Do the assignments along with your reading as well as after the class
 
 
 | Lecture|Topic|Recording Links|Course Materials|Slides|Assignment|commment| 
