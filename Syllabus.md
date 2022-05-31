@@ -6,6 +6,8 @@
 
     Summer Session 1 2022: 6 Week - Tue|Thur: 5:45-8:53 PM
 
+    In person sessions will meet in Hunter North C109 (in the basement)
+
     Instructor: Ariel Avshalom
 
     Email: csciprofessor+S22-26500 AT gmail DOT com
