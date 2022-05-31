@@ -17,6 +17,7 @@
 ## Prereqs:
 
 CSCI 16000; MATH 15000
+
 I strongly recommend reading chapter zero of our textbook before the semester begins.
 
 ## Textbook:
@@ -108,3 +109,27 @@ There will be assigned readings and homework before each class and it’s import
 |Monday July 4th 2022       |**Fourth of July Weekend!**|
 |Tuesday July 5th 2022      |Classes follow a Monday schedule!|
 |Tuesday July 12th 2022     |**Final Exam**|
+
+## Contacting Policy
+Feel free to contact me regarding questions on homework or coursework. I try to respond to email in a timely manner and I can answer questions after the class as well. 
+When emailing me please include your name and question in the subject line and please make sure that you email csciprofessor+S22-26500 AT gmail DOT com (the + at the end of the address is a cool way to filter mail for Gmail addresses. Gmail will ignore everything after and including the + so the message will still arrive to me.)
+
+## Academic Integrity: 
+
+“The faculty and administration of Hunter College support an environment free from cheating and plagiarism. Each student is responsible for being aware of what constitutes cheating and plagiarism and for avoiding both. The complete text of the CUNY Academic Integrity Policy and the Hunter College procedure for policy implementation can be found at http://www.hunter.cuny.edu/hr/policies/policies-page. If a faculty member suspects a violation of academic integrity and, upon investigation, confirms that violation, or if the student admits the violation, the faculty member MUST report the violation.”
+
+## Disability Policy:
+
+“In order to receive disability-related academic accommodations students must first be registered
+with the Center for Student Disability Services. Students who have a documented disability or
+suspect they may have a disability are invited to set up an appointment with the Director of the
+Center for Student Disability Services. If you have already registered with the Center for Student Disability Services, please provide your professor with the course accommodation form and discuss your specific accommodation.”
+
+## Religious Observances:
+
+State law regarding non-attendance because of religious beliefs can be found in p. 66 of the
+Undergraduate Bulletin or p. 40 of the Graduate Bulletin).
+
+## Online Disclosures:
+
+Students who participate in this class with their camera on or use a profile image are agreeing to have their video or image recorded solely for the purpose of creating a record for students enrolled in the class to refer to, including those enrolled students who are unable to attend live. If you are unwilling to consent to have your profile or video image recorded, be sure to keep your camera off and do not use a profile image. Likewise, students who un-mute during class and participate orally are agreeing to have their voices recorded. If you are not willing to consent to have your voice recorded during class, you will need to keep your mute button activated and communicate exclusively using the "chat" feature, which allows students to type questions and comments live.
