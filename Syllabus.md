@@ -91,10 +91,10 @@ Ariel A.
 
 ## Grading
 
-| Object    |   Percentage of Grade  |   
-|:-------:|:--------:
-|Final|35%|
-|Quizzes|40%|
-|Homework|15%|
-|Participation|10%|
+|Material       |Percentage of Grade|   
+|:-:            |:-:|
+|Final          |35%|
+|Quizzes        |40%|
+|Homework       |15%|
+|Participation  |10%|
 
