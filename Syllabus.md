@@ -47,7 +47,7 @@ Ariel A.
 
 ## Course Objectives
 
-- Automata, Computability and Complexity: the big picture
+**Automata, Computability and Complexity: the big picture**
 
 <details><summary>Automata</summary>
 
@@ -59,7 +59,7 @@ Ariel A.
     - Context-Free Languages:
         - Context-Free Grammars 		(CFG)
         - Pushdown Automata			(PDA)
-        
+
 </details>
 
 <details><summary>Automata</summary>
