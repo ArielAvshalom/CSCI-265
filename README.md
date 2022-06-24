@@ -19,6 +19,6 @@
 |7 - in person ||||||Quiz 2 on sections 2.2 and 3.1 Need to know: informal algorithms on TMs and creating PDAs.|
 |8 - Online|Turing Machines cont. 3.2, 3.3|[:tv:](https://drive.google.com/file/d/1j0YntVUdoWR68rOczuGwd82pQNFVWI1v/view?usp=sharing)|Chapters 3.2 and 3.3|TMs on OneNote, [What is an algorithm](https://docs.google.com/presentation/d/1sBKSN9E3Q2lTkbn0yFPZbYxYs5q4yQs5/edit?usp=sharing&ouid=114307319736364875275&rtpof=true&sd=true)|Chapter 3 (3.2): 3.9, 3.10, 3.12, 3.13, 3.14; (3.3): 3.15 (a, b), 3.16 (a, b), 3.22 ~ I recommend reading on about these yourself in the book or online. I also recommend taking some of the informal TM algorithms you created and rewriting them with multiple tapes.|Quiz on 3.2 and 3.3. Need to know how to show a TM has the same computation power as a different TM, how to use TMs with multiple tapes, how to write informal algorithms, trace informal algorithms, verify if an algorithm is correct or not, fix the error if there is one and be able to define what an algorithm is. Watch these videos: [Godel](https://www.youtube.com/watch?v=HeQX2HjkcNo), [Halting problem part 1](https://www.youtube.com/watch?v=macM_MtS_w4&list=PLzH6n4zXuckrEzV0CB1xXbSdsP_a7VUoK).|
 |9 - in person|Decidability Chapter 4||Chapters 4.1 and 4.2|||Quiz 3|
-|10 - Online|Reducability Chapter 5||||||
+|10 - Online|Reducability Chapter 5||Chapters 5.1, 5.2, 5.3||||
 |11 - Online|Big O, P vs NP Chapter 7||||||
 |12 - FiNaL|||||||
