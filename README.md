@@ -22,3 +22,14 @@
 |10 - Online|Reducability Chapter 5||Chapters 5.1, 5.2, 5.3||||
 |11 - Online|Big O, P vs NP Chapter 7||||||
 |12 - FiNaL|||||||
+
+For class 10 which was chapter 4, please watch the following videos as classwork/homework to better grasp undeciability:
+- [Godel Simple](https://www.youtube.com/watch?v=I4pQbo5MQOs&list=PL06XaQirqLp2UoXRfZ4CT7XgDxfgqdLRK&index=5)
+- [Incompleteness](https://www.youtube.com/watch?v=HeQX2HjkcNo)
+- [Undecidable 1](https://www.youtube.com/watch?v=nsZsd5qtbo4&t=4s)
+- [Undecidable 2](https://www.youtube.com/watch?v=FK3kifY-geM&list=PL06XaQirqLp0Rh3-utaG1j9eRWMLvdgWS&index=3)
+- [Undecidable 3](https://www.youtube.com/watch?v=lLWnd6-vSGo&t=1s)
+- [Regular Language TM](https://www.youtube.com/watch?v=zo3kyFumkws)
+- [CFG TM](https://www.youtube.com/watch?v=e-KF6u6-Zqw)
+- [Halting Problem UpAndAtom](https://www.youtube.com/watch?v=t37GQgUPa6k)
+- [Halting ComputerPhile](https://www.youtube.com/watch?v=macM_MtS_w4)
