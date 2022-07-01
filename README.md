@@ -27,7 +27,7 @@ For class 10 which was chapter 4, please watch the following videos as classwork
 - [Godel Simple](https://www.youtube.com/watch?v=I4pQbo5MQOs&list=PL06XaQirqLp2UoXRfZ4CT7XgDxfgqdLRK&index=5)
 - [Incompleteness](https://www.youtube.com/watch?v=HeQX2HjkcNo)
 - [Undecidable 1](https://www.youtube.com/watch?v=nsZsd5qtbo4&t=4s)
-- [Undecidable 2](https://www.youtube.com/watch?v=FK3kifY-geM&list=PL06XaQirqLp0Rh3-utaG1j9eRWMLvdgWS&index=3)
+- [Undecidable 2](https://youtu.be/FK3kifY-geM)
 - [Undecidable 3](https://www.youtube.com/watch?v=lLWnd6-vSGo&t=1s)
 - [Regular Language TM](https://www.youtube.com/watch?v=zo3kyFumkws)
 - [CFG TM](https://www.youtube.com/watch?v=e-KF6u6-Zqw)
