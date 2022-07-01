@@ -32,4 +32,4 @@ For class 10 which was chapter 4, please watch the following videos as classwork
 - [Regular Language TM](https://www.youtube.com/watch?v=zo3kyFumkws)
 - [CFG TM](https://www.youtube.com/watch?v=e-KF6u6-Zqw)
 - [Halting Problem UpAndAtom](https://www.youtube.com/watch?v=t37GQgUPa6k)
-- [Halting ComputerPhile](https://www.youtube.com/watch?v=macM_MtS_w4)
+- [Halting Computerphile](https://www.youtube.com/watch?v=macM_MtS_w4)
