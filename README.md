@@ -18,9 +18,9 @@
 |6 - Online   |PDAs ~2.2 and Turing Machines ~3.1      |[:tv:](https://cuny907-my.sharepoint.com/:v:/g/personal/ariel_avshalumov37_login_cuny_edu/EbTRw44XKLNGjmur8vUIuXgBXUF0mVqWbUQq0g5kfpNF7A?e=tvZs1M)|Chapters 2.2 and 3.1|[PDAs](https://github.com/ArielAvshalom/CSCI-265/blob/main/Presentations/CSCI%20265%20Lecture%206%20Pushdown%20Automata.pptx), [TMs](https://github.com/ArielAvshalom/CSCI-265/blob/main/Presentations/CSCI%20265%20Lecture%207%20Turing%20Machines.pptx)|Chapter 2 (2.2): 2.7, 2.10, 2.14, Chapter 3 (3.1): 3.1, 3.2, 3.5, 3.7, 3.8|We may have a quiz in the next in-person lecture, I'll let you know over the weekend. Read chapters 3.2 and 3.3 for next class.|
 |7 - in person ||||||Quiz 2 on sections 2.2 and 3.1 Need to know: informal algorithms on TMs and creating PDAs.|
 |8 - Online|Turing Machines cont. 3.2, 3.3|[:tv:](https://drive.google.com/file/d/1j0YntVUdoWR68rOczuGwd82pQNFVWI1v/view?usp=sharing)|Chapters 3.2 and 3.3|TMs on OneNote, [What is an algorithm](https://docs.google.com/presentation/d/1sBKSN9E3Q2lTkbn0yFPZbYxYs5q4yQs5/edit?usp=sharing&ouid=114307319736364875275&rtpof=true&sd=true)|Chapter 3 (3.2): 3.9, 3.10, 3.12, 3.13, 3.14; (3.3): 3.15 (a, b), 3.16 (a, b), 3.22 ~ I recommend reading on about these yourself in the book or online. I also recommend taking some of the informal TM algorithms you created and rewriting them with multiple tapes.|Quiz next Tuesday on 3.2 and 3.3. Need to know how to show a TM has the same computation power as a different TM, how to use TMs with multiple tapes, how to write informal algorithms, trace informal algorithms, verify if an algorithm is correct or not, fix the error if there is one and be able to define what an algorithm is. Watch these videos: [Godel](https://www.youtube.com/watch?v=HeQX2HjkcNo), [Halting problem part 1](https://www.youtube.com/watch?v=macM_MtS_w4&list=PLzH6n4zXuckrEzV0CB1xXbSdsP_a7VUoK).|
-|9 - in person|Decidability Chapter 4||Chapters 4.1 and 4.2|||Quiz 3|
-|10 - Online|Reducability Chapter 5||Chapters 5.1, 5.2, 5.3||||
-|11 - Online|Big O, P vs NP Chapter 7||||||
+|9 - in person|Big O|||||Quiz 3|
+|10 - Online|Decidability Chapter 4|[:tv:](https://cuny907-my.sharepoint.com/:v:/g/personal/ariel_avshalumov37_login_cuny_edu/EcG02PnGqFdCvhr_9hw2newB2Z6XZiNhttcEgEydDMnjLg?e=diEu7X)|Chapters 4.1 and 4.2||| Watch videos below.|
+|11 - Online|P vs NP Chapter 7||Chapters 7.1, 7.2, 7.3, 7.4, 7.5||||
 |12 - FiNaL|||||||
 
 For class 10 which was chapter 4, please watch the following videos as classwork/homework to better grasp undeciability:
