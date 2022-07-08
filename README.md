@@ -22,3 +22,12 @@
 |10 - Online|Decidability Chapter 4|[:tv:](https://cuny907-my.sharepoint.com/:v:/g/personal/ariel_avshalumov37_login_cuny_edu/EcG02PnGqFdCvhr_9hw2newB2Z6XZiNhttcEgEydDMnjLg?e=diEu7X)|Chapters 4.1 and 4.2||4.1, 4.2, 4.3, 4.4| Helpful videos: [Godel Simple](https://www.youtube.com/watch?v=I4pQbo5MQOs&list=PL06XaQirqLp2UoXRfZ4CT7XgDxfgqdLRK&index=5), [Incompleteness](https://www.youtube.com/watch?v=HeQX2HjkcNo), [Undecidable 1](https://www.youtube.com/watch?v=nsZsd5qtbo4&t=4s), [Undecidable 2](https://youtu.be/FK3kifY-geM), [Undecidable 3](https://www.youtube.com/watch?v=lLWnd6-vSGo&t=1s), [Regular Language TM](https://www.youtube.com/watch?v=zo3kyFumkws), [CFG TM](https://www.youtube.com/watch?v=e-KF6u6-Zqw), [Halting Problem UpAndAtom](https://www.youtube.com/watch?v=t37GQgUPa6k), [Halting Computerphile](https://www.youtube.com/watch?v=macM_MtS_w4)|
 |11 - Online|P vs NP Chapter 7|[:tv:](https://cuny907-my.sharepoint.com/:v:/g/personal/ariel_avshalumov37_login_cuny_edu/Eat9Aq5jeLJOlZpc784oFtABgy96rcXoR4VwqTdKj9nSXw?e=6Zg58C)|Chapters 7.1, 7.2, 7.3, 7.4, 7.5||7.1, 7.2, 7.20 (PATH on page 288), 7.21, 7.29|Helpful videos: [UpAndAtom NP Complete](https://www.youtube.com/watch?v=EHp4FPyajKQ), [MIT full lecture](https://www.youtube.com/watch?v=eHZifpgyH_4), [Cook-Levin](https://www.youtube.com/watch?v=W9G_1xG77LE), [Problems in NP-Complete/NP-Hard](https://www.youtube.com/watch?v=e2cF8a5aAhE)|
 |12 - FiNaL|||||||
+
+For the final (this list is not comprehensive, but it is generally what you should study):
+
+You need to know DFAs, NFAs, Regex, PDA (deterministic), Turing Machine informal algorithms, Big O, P vs NP and be ready to think about questions which may require thinking instead of just memorization.
+Be able to formally define any of the above machines. Be able to concatenate, * or plus machines. Be able to trace through states given certain inputs. Know the limits of the machines above in terms of the pumping lemma. 
+You will not be asked for formal proofs, but there will be questions where you need to show something is true or false.
+You will not be asked to create CFGs, CNF, NDPDA, or converting NFAs to DFAs.
+Here is an example of a questiom which might require more thought:
+- What does it mean if Turing Recognizable Languages (TRL) are closed under complement? Recall that TRLs can halt but we don’t know if they will. 
