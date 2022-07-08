@@ -26,8 +26,13 @@
 For the final (this list is not comprehensive, but it is generally what you should study):
 
 You need to know DFAs, NFAs, Regex, PDA (deterministic), Turing Machine informal algorithms, Big O, P vs NP and be ready to think about questions which may require thinking instead of just memorization.
+
 Be able to formally define any of the above machines. Be able to concatenate, * or plus machines. Be able to trace through states given certain inputs. Know the limits of the machines above in terms of the pumping lemma. 
+
 You will not be asked for formal proofs, but there will be questions where you need to show something is true or false.
+
 You will not be asked to create CFGs, CNF, NDPDA, or converting NFAs to DFAs.
+
 Here is an example of a questiom which might require more thought:
+
 - What does it mean if Turing Recognizable Languages (TRL) are closed under complement? Recall that TRLs can halt but we don’t know if they will. 
