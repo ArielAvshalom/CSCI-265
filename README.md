@@ -19,17 +19,6 @@
 |7 - in person ||||||Quiz 2 on sections 2.2 and 3.1 Need to know: informal algorithms on TMs and creating PDAs.|
 |8 - Online|Turing Machines cont. 3.2, 3.3|[:tv:](https://drive.google.com/file/d/1j0YntVUdoWR68rOczuGwd82pQNFVWI1v/view?usp=sharing)|Chapters 3.2 and 3.3|TMs on OneNote, [What is an algorithm](https://docs.google.com/presentation/d/1sBKSN9E3Q2lTkbn0yFPZbYxYs5q4yQs5/edit?usp=sharing&ouid=114307319736364875275&rtpof=true&sd=true)|Chapter 3 (3.2): 3.9, 3.10, 3.12, 3.13, 3.14; (3.3): 3.15 (a, b), 3.16 (a, b), 3.22 ~ I recommend reading on about these yourself in the book or online. I also recommend taking some of the informal TM algorithms you created and rewriting them with multiple tapes.|Quiz next Tuesday on 3.2 and 3.3. Need to know how to show a TM has the same computation power as a different TM, how to use TMs with multiple tapes, how to write informal algorithms, trace informal algorithms, verify if an algorithm is correct or not, fix the error if there is one and be able to define what an algorithm is. Watch these videos: [Godel](https://www.youtube.com/watch?v=HeQX2HjkcNo), [Halting problem part 1](https://www.youtube.com/watch?v=macM_MtS_w4&list=PLzH6n4zXuckrEzV0CB1xXbSdsP_a7VUoK).|
 |9 - in person|Big O|||||Quiz 3|
-|10 - Online|Decidability Chapter 4|[:tv:](https://cuny907-my.sharepoint.com/:v:/g/personal/ariel_avshalumov37_login_cuny_edu/EcG02PnGqFdCvhr_9hw2newB2Z6XZiNhttcEgEydDMnjLg?e=diEu7X)|Chapters 4.1 and 4.2||4.1, 4.2, 4.3, 4.4| Watch videos below.|
+|10 - Online|Decidability Chapter 4|[:tv:](https://cuny907-my.sharepoint.com/:v:/g/personal/ariel_avshalumov37_login_cuny_edu/EcG02PnGqFdCvhr_9hw2newB2Z6XZiNhttcEgEydDMnjLg?e=diEu7X)|Chapters 4.1 and 4.2||4.1, 4.2, 4.3, 4.4| Helpful videos: [Godel Simple](https://www.youtube.com/watch?v=I4pQbo5MQOs&list=PL06XaQirqLp2UoXRfZ4CT7XgDxfgqdLRK&index=5), [Incompleteness](https://www.youtube.com/watch?v=HeQX2HjkcNo), [Undecidable 1](https://www.youtube.com/watch?v=nsZsd5qtbo4&t=4s), [Undecidable 2](https://youtu.be/FK3kifY-geM), [Undecidable 3](https://www.youtube.com/watch?v=lLWnd6-vSGo&t=1s), [Regular Language TM](https://www.youtube.com/watch?v=zo3kyFumkws), [CFG TM](https://www.youtube.com/watch?v=e-KF6u6-Zqw), [Halting Problem UpAndAtom](https://www.youtube.com/watch?v=t37GQgUPa6k), [Halting Computerphile](https://www.youtube.com/watch?v=macM_MtS_w4)|
 |11 - Online|P vs NP Chapter 7|[:tv:](https://cuny907-my.sharepoint.com/:v:/g/personal/ariel_avshalumov37_login_cuny_edu/Eat9Aq5jeLJOlZpc784oFtABgy96rcXoR4VwqTdKj9nSXw?e=6Zg58C)|Chapters 7.1, 7.2, 7.3, 7.4, 7.5||7.1, 7.2, 7.20 (PATH on page 288), 7.21, 7.29||
 |12 - FiNaL|||||||
-
-For class 10 which was chapter 4, please watch the following videos as classwork/homework to better grasp undeciability:
-- [Godel Simple](https://www.youtube.com/watch?v=I4pQbo5MQOs&list=PL06XaQirqLp2UoXRfZ4CT7XgDxfgqdLRK&index=5)
-- [Incompleteness](https://www.youtube.com/watch?v=HeQX2HjkcNo)
-- [Undecidable 1](https://www.youtube.com/watch?v=nsZsd5qtbo4&t=4s)
-- [Undecidable 2](https://youtu.be/FK3kifY-geM)
-- [Undecidable 3](https://www.youtube.com/watch?v=lLWnd6-vSGo&t=1s)
-- [Regular Language TM](https://www.youtube.com/watch?v=zo3kyFumkws)
-- [CFG TM](https://www.youtube.com/watch?v=e-KF6u6-Zqw)
-- [Halting Problem UpAndAtom](https://www.youtube.com/watch?v=t37GQgUPa6k)
-- [Halting Computerphile](https://www.youtube.com/watch?v=macM_MtS_w4)
